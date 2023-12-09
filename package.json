@@ -32,6 +32,7 @@
     "@mui/material": "5.11.13",
     "@mui/system": "5.11.13",
     "@mui/x-data-grid": "6.0.1",
+    "@notionhq/client": "^2.2.14",
     "@popperjs/core": "2.11.6",
     "@reduxjs/toolkit": "1.9.3",
     "apexcharts-clevision": "3.28.5",
